@@ -133,15 +133,13 @@ const EXCURSIONS = [
     desc: "Travesía al parque nacional más bello de la Patagonia chilena, con paisajes que quitan el aliento.",
     detail: "Un viaje internacional al corazón del Parque Nacional Torres del Paine, en Chile. Cruzamos la frontera y nos adentramos en uno de los destinos de trekking más reconocidos del mundo. Paisajes de montañas, lagos turquesa, cóndores y una naturaleza salvaje que te va a dejar sin palabras. Incluye coordinación del cruce fronterizo.",
     duration: "Día completo",
-    price: "$300.000",
-    priceLabel: "Precio vehículo hasta 4 pax",
   },
   {
     img: "https://images.unsplash.com/photo-1631499756201-d6ca43f323f0?w=800&h=600&fit=crop&auto=format",
     title: "El Chaltén",
     desc: "La capital del trekking argentino, a los pies del mítico Monte Fitz Roy y sus cumbres graníticas.",
     detail: "Te trasladamos a El Chaltén, el pueblo del trekking argentino ubicado a 220 km de El Calafate. Desde allí podés acceder a las sendas hacia el Fitz Roy, el Cerro Torre y los miradores más icónicos de la Patagonia. El viaje en sí ya es una experiencia, atravesando la estepa y los valles glaciares de Santa Cruz.",
-    duration: "Día completo",
+    duration: "Día completo"
   },
 ];
 
