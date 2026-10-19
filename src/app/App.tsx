@@ -142,8 +142,6 @@ const EXCURSIONS = [
     desc: "La capital del trekking argentino, a los pies del mítico Monte Fitz Roy y sus cumbres graníticas.",
     detail: "Te trasladamos a El Chaltén, el pueblo del trekking argentino ubicado a 220 km de El Calafate. Desde allí podés acceder a las sendas hacia el Fitz Roy, el Cerro Torre y los miradores más icónicos de la Patagonia. El viaje en sí ya es una experiencia, atravesando la estepa y los valles glaciares de Santa Cruz.",
     duration: "Día completo",
-    price: "$350.000",
-    priceLabel: "Precio vehículo hasta 4 pax",
   },
 ];
 
