@@ -1,0 +1,11 @@
+
+  # Passenger Transport Website
+
+  This is a code bundle for Passenger Transport Website. The original project is available at https://www.figma.com/design/NVGlOvLWS33ASdUDAVvdX9/Passenger-Transport-Website.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
